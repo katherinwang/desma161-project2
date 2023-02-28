@@ -1,0 +1,42 @@
+.title{
+  color: white;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 0;
+}
+
+.subtitle{
+  color: #A9A9B5;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 0;
+}
+
+img{
+  object-fit: contain;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #A9A9B5;
+}
+
+a:active {
+  text-decoration: none;
+  color: #A9A9B5;
+}
+
+
+
